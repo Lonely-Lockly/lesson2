@@ -1,0 +1,291 @@
+telegram.ext.updater - ERROR - Error while getting Updates: Timed out
+telegram.ext.updater - ERROR - Error while getting Updates: Timed out
+telegram.ext.updater - ERROR - Error while getting Updates: Timed out
+telegram.ext.updater - ERROR - Error while getting Updates: Timed out
+telegram.ext.updater - ERROR - Error while getting Updates: Timed out
+telegram.ext.updater - ERROR - Error while getting Updates: Timed out
+telegram.ext.updater - ERROR - Error while getting Updates: Timed out
+telegram.ext.updater - ERROR - Error while getting Updates: Timed out
+telegram.ext.updater - ERROR - Error while getting Updates: Timed out
+telegram.ext.updater - ERROR - Error while getting Updates: Timed out
+telegram.ext.updater - ERROR - Error while getting Updates: Timed out
+telegram.ext.dispatcher - ERROR - An uncaught error was raised while processing the update
+Traceback (most recent call last):
+  File "C:\Python34\lib\site-packages\telegram\ext\dispatcher.py", line 279, in process_update
+    handler.handle_update(update, self)
+  File "C:\Python34\lib\site-packages\telegram\ext\commandhandler.py", line 171, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "bot_ephem.py", line 47, in planet_location
+    planet = ephem.planet_name(date)
+AttributeError: 'module' object has no attribute 'planet_name'
+telegram.ext.dispatcher - ERROR - An uncaught error was raised while processing the update
+Traceback (most recent call last):
+  File "C:\Python34\lib\site-packages\telegram\ext\dispatcher.py", line 279, in process_update
+    handler.handle_update(update, self)
+  File "C:\Python34\lib\site-packages\telegram\ext\commandhandler.py", line 171, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "bot_ephem.py", line 47, in planet_location
+    planet = ephem.planet_name(date)
+AttributeError: 'module' object has no attribute 'planet_name'
+telegram.ext.dispatcher - ERROR - An uncaught error was raised while processing the update
+Traceback (most recent call last):
+  File "C:\Python34\lib\site-packages\telegram\ext\dispatcher.py", line 279, in process_update
+    handler.handle_update(update, self)
+  File "C:\Python34\lib\site-packages\telegram\ext\commandhandler.py", line 171, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "bot_ephem.py", line 47, in planet_location
+    planet = ephem.planet_name(date)
+AttributeError: 'module' object has no attribute 'planet_name'
+telegram.ext.updater - ERROR - Error while getting Updates: Timed out
+telegram.ext.dispatcher - ERROR - An uncaught error was raised while processing the update
+Traceback (most recent call last):
+  File "C:\Python34\lib\site-packages\telegram\ext\dispatcher.py", line 279, in process_update
+    handler.handle_update(update, self)
+  File "C:\Python34\lib\site-packages\telegram\ext\commandhandler.py", line 171, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "bot_ephem.py", line 47, in planet_location
+    planet = ephem.planet_name(date)
+AttributeError: 'module' object has no attribute 'planet_name'
+telegram.ext.updater - WARNING - Exiting immediately!
+telegram.ext.updater - ERROR - Error while getting Updates: Timed out
+telegram.ext.dispatcher - ERROR - An uncaught error was raised while processing the update
+Traceback (most recent call last):
+  File "C:\Python34\lib\site-packages\telegram\ext\dispatcher.py", line 279, in process_update
+    handler.handle_update(update, self)
+  File "C:\Python34\lib\site-packages\telegram\ext\commandhandler.py", line 171, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "bot_ephem.py", line 47, in planet_location
+    planet = ephem.planet_name(date)
+AttributeError: 'module' object has no attribute 'planet_name'
+telegram.ext.dispatcher - ERROR - An uncaught error was raised while processing the update
+Traceback (most recent call last):
+  File "C:\Python34\lib\site-packages\telegram\ext\dispatcher.py", line 279, in process_update
+    handler.handle_update(update, self)
+  File "C:\Python34\lib\site-packages\telegram\ext\commandhandler.py", line 171, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "bot_ephem.py", line 47, in planet_location
+    planet = ephem.planet_name(date)
+AttributeError: 'module' object has no attribute 'planet_name'
+telegram.ext.updater - ERROR - Error while getting Updates: Timed out
+telegram.ext.dispatcher - ERROR - An uncaught error was raised while processing the update
+Traceback (most recent call last):
+  File "C:\Python34\lib\site-packages\telegram\ext\dispatcher.py", line 279, in process_update
+    handler.handle_update(update, self)
+  File "C:\Python34\lib\site-packages\telegram\ext\commandhandler.py", line 171, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "bot_ephem.py", line 47, in planet_location
+    #planet = ephem.planet_name(date)
+AttributeError: 'module' object has no attribute 'planet_name'
+telegram.ext.dispatcher - ERROR - An uncaught error was raised while processing the update
+Traceback (most recent call last):
+  File "C:\Python34\lib\site-packages\telegram\ext\dispatcher.py", line 279, in process_update
+    handler.handle_update(update, self)
+  File "C:\Python34\lib\site-packages\telegram\ext\commandhandler.py", line 171, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "bot_ephem.py", line 47, in planet_location
+    #planet = ephem.planet_name(date)
+AttributeError: 'module' object has no attribute 'planet_name'
+telegram.ext.dispatcher - ERROR - An uncaught error was raised while processing the update
+Traceback (most recent call last):
+  File "C:\Python34\lib\site-packages\telegram\ext\dispatcher.py", line 279, in process_update
+    handler.handle_update(update, self)
+  File "C:\Python34\lib\site-packages\telegram\ext\commandhandler.py", line 171, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "bot_ephem.py", line 47, in planet_location
+    #planet = ephem.planet_name(date)
+AttributeError: 'module' object has no attribute 'planet_name'
+telegram.ext.updater - WARNING - Exiting immediately!
+telegram.ext.updater - WARNING - Exiting immediately!
+telegram.ext.dispatcher - ERROR - An uncaught error was raised while processing the update
+Traceback (most recent call last):
+  File "C:\Python34\lib\site-packages\telegram\ext\dispatcher.py", line 279, in process_update
+    handler.handle_update(update, self)
+  File "C:\Python34\lib\site-packages\telegram\ext\commandhandler.py", line 171, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "bot_ephem.py", line 47, in planet_location
+    planet = ephem.planet_name(date)
+AttributeError: 'module' object has no attribute 'planet_name'
+telegram.ext.updater - ERROR - Error while getting Updates: Timed out
+telegram.ext.updater - ERROR - Error while getting Updates: Timed out
+telegram.ext.dispatcher - ERROR - An uncaught error was raised while processing the update
+Traceback (most recent call last):
+  File "C:\Python34\lib\site-packages\telegram\ext\dispatcher.py", line 279, in process_update
+    handler.handle_update(update, self)
+  File "C:\Python34\lib\site-packages\telegram\ext\commandhandler.py", line 171, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "bot_ephem.py", line 51, in planet_location
+    print(Solar_System_planet.get(planet_name))
+NameError: name 'planet_name' is not defined
+telegram.ext.updater - ERROR - Error while getting Updates: Timed out
+telegram.ext.updater - WARNING - Exiting immediately!
+telegram.ext.dispatcher - ERROR - An uncaught error was raised while processing the update
+Traceback (most recent call last):
+  File "C:\Python34\lib\site-packages\telegram\ext\dispatcher.py", line 279, in process_update
+    handler.handle_update(update, self)
+  File "C:\Python34\lib\site-packages\telegram\ext\commandhandler.py", line 171, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "bot_ephem.py", line 52, in planet_location
+    planet = ephem.planet_name(date)
+AttributeError: 'module' object has no attribute 'planet_name'
+telegram.ext.updater - WARNING - Exiting immediately!
+telegram.ext.dispatcher - ERROR - An uncaught error was raised while processing the update
+Traceback (most recent call last):
+  File "C:\Python34\lib\site-packages\telegram\ext\dispatcher.py", line 279, in process_update
+    handler.handle_update(update, self)
+  File "C:\Python34\lib\site-packages\telegram\ext\commandhandler.py", line 171, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "bot_ephem.py", line 48, in planet_location
+    print(Solar_System_planet.get(planet_name))
+NameError: name 'planet_name' is not defined
+telegram.ext.updater - ERROR - Error while getting Updates: Timed out
+telegram.ext.updater - ERROR - Error while getting Updates: Timed out
+telegram.ext.updater - ERROR - Error while getting Updates: Timed out
+telegram.ext.updater - ERROR - Error while getting Updates: Timed out
+telegram.ext.updater - ERROR - Error while getting Updates: Timed out
+telegram.ext.updater - ERROR - Error while getting Updates: Timed out
+telegram.ext.updater - ERROR - Error while getting Updates: Timed out
+telegram.ext.updater - WARNING - Exiting immediately!
+telegram.ext.dispatcher - ERROR - An uncaught error was raised while processing the update
+Traceback (most recent call last):
+  File "C:\Python34\lib\site-packages\telegram\ext\dispatcher.py", line 279, in process_update
+    handler.handle_update(update, self)
+  File "C:\Python34\lib\site-packages\telegram\ext\commandhandler.py", line 171, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "bot_ephem.py", line 44, in planet_location
+    solar_system_planet = {"Mercury": ephem.Mercury, "Venus": ephem.Venus, "Earth": ephem.Earth,
+AttributeError: 'module' object has no attribute 'Earth'
+telegram.ext.updater - WARNING - Exiting immediately!
+telegram.ext.updater - ERROR - Error while getting Updates: Timed out
+telegram.ext.updater - ERROR - Error while getting Updates: Timed out
+telegram.ext.updater - WARNING - Exiting immediately!
+telegram.ext.updater - WARNING - Exiting immediately!
+telegram.ext.dispatcher - ERROR - An uncaught error was raised while processing the update
+Traceback (most recent call last):
+  File "C:\Python34\lib\site-packages\telegram\ext\dispatcher.py", line 279, in process_update
+    handler.handle_update(update, self)
+  File "C:\Python34\lib\site-packages\telegram\ext\commandhandler.py", line 171, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "bot_ephem.py", line 44, in planet_location
+    solar_system_planet = {"Mercury": ephem.Mercury, "Venus": ephem.Venus, "Earth": ephem.Earth,
+AttributeError: 'module' object has no attribute 'Earth'
+telegram.ext.updater - WARNING - Exiting immediately!
+telegram.ext.updater - WARNING - Exiting immediately!
+telegram.ext.dispatcher - ERROR - An uncaught error was raised while processing the update
+Traceback (most recent call last):
+  File "C:\Python34\lib\site-packages\telegram\ext\dispatcher.py", line 279, in process_update
+    handler.handle_update(update, self)
+  File "C:\Python34\lib\site-packages\telegram\ext\commandhandler.py", line 171, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "bot_ephem.py", line 44, in planet_location
+    solar_system_planet = {"Mercury": ephem.Mercury, "Venus": ephem.Venus, "Earth": ephem.Earth,
+AttributeError: 'module' object has no attribute 'Earth'
+telegram.ext.dispatcher - ERROR - An uncaught error was raised while processing the update
+Traceback (most recent call last):
+  File "C:\Python34\lib\site-packages\telegram\ext\dispatcher.py", line 279, in process_update
+    handler.handle_update(update, self)
+  File "C:\Python34\lib\site-packages\telegram\ext\commandhandler.py", line 171, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "bot_ephem.py", line 44, in planet_location
+    solar_system_planet = {"Mercury": ephem.Mercury, "Venus": ephem.Venus, "Earth": ephem.Earth,
+AttributeError: 'module' object has no attribute 'Earth'
+telegram.ext.updater - ERROR - Error while getting Updates: Timed out
+telegram.ext.updater - WARNING - Exiting immediately!
+telegram.ext.dispatcher - ERROR - An uncaught error was raised while processing the update
+Traceback (most recent call last):
+  File "C:\Python34\lib\site-packages\telegram\ext\dispatcher.py", line 279, in process_update
+    handler.handle_update(update, self)
+  File "C:\Python34\lib\site-packages\telegram\ext\commandhandler.py", line 171, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "bot_ephem.py", line 44, in planet_location
+    solar_system_planet = {"Mercury": ephem.Mercury, "Venus": ephem.Venus, "Earth": ephem.Earth,
+AttributeError: 'module' object has no attribute 'Earth'
+telegram.ext.updater - ERROR - Error while getting Updates: Timed out
+telegram.ext.updater - WARNING - Exiting immediately!
+telegram.ext.updater - WARNING - Exiting immediately!
+telegram.ext.dispatcher - ERROR - An uncaught error was raised while processing the update
+Traceback (most recent call last):
+  File "C:\Python34\lib\site-packages\telegram\ext\dispatcher.py", line 279, in process_update
+    handler.handle_update(update, self)
+  File "C:\Python34\lib\site-packages\telegram\ext\commandhandler.py", line 171, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "bot_ephem.py", line 44, in planet_location
+    solar_system_planet = {"Mercury": ephem.Mercury, "Venus": ephem.Venus, "Earth": ephem.Earth, "Mars": ephem.Mars, "Jupiter": ephem.Jupiter, "Saturn": ephem.Saturn, "Uranus": ephem.Uranus, "Neptune": ephem.Neptune, "Pluto": ephem.Pluto}
+AttributeError: 'module' object has no attribute 'Earth'
+telegram.ext.updater - ERROR - Error while getting Updates: urllib3 HTTPError ('Connection aborted.', ConnectionResetError(10054, 'Удаленный хост принудительно разорвал существующее подключение', None, 10054, None))
+telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None)) after connection broken by 'NewConnectionError('<telegram.vendor.ptb_urllib3.urllib3.connection.VerifiedHTTPSConnection object at 0x000000000756C550>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed',)': /bot498747935:AAHANRICU65KYR1E-tcXjpMUMqrj47whGR8/getUpdates
+telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None)) after connection broken by 'NewConnectionError('<telegram.vendor.ptb_urllib3.urllib3.connection.VerifiedHTTPSConnection object at 0x000000000756C710>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed',)': /bot498747935:AAHANRICU65KYR1E-tcXjpMUMqrj47whGR8/getUpdates
+telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None)) after connection broken by 'NewConnectionError('<telegram.vendor.ptb_urllib3.urllib3.connection.VerifiedHTTPSConnection object at 0x000000000756C828>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed',)': /bot498747935:AAHANRICU65KYR1E-tcXjpMUMqrj47whGR8/getUpdates
+telegram.ext.updater - ERROR - Error while getting Updates: urllib3 HTTPError HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot498747935:AAHANRICU65KYR1E-tcXjpMUMqrj47whGR8/getUpdates (Caused by NewConnectionError('<telegram.vendor.ptb_urllib3.urllib3.connection.VerifiedHTTPSConnection object at 0x000000000756C940>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed',))
+telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None)) after connection broken by 'NewConnectionError('<telegram.vendor.ptb_urllib3.urllib3.connection.VerifiedHTTPSConnection object at 0x00000000071570B8>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed',)': /bot498747935:AAHANRICU65KYR1E-tcXjpMUMqrj47whGR8/getUpdates
+telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None)) after connection broken by 'NewConnectionError('<telegram.vendor.ptb_urllib3.urllib3.connection.VerifiedHTTPSConnection object at 0x00000000059BEA20>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed',)': /bot498747935:AAHANRICU65KYR1E-tcXjpMUMqrj47whGR8/getUpdates
+telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None)) after connection broken by 'NewConnectionError('<telegram.vendor.ptb_urllib3.urllib3.connection.VerifiedHTTPSConnection object at 0x00000000059BE9B0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed',)': /bot498747935:AAHANRICU65KYR1E-tcXjpMUMqrj47whGR8/getUpdates
+telegram.ext.updater - ERROR - Error while getting Updates: urllib3 HTTPError HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot498747935:AAHANRICU65KYR1E-tcXjpMUMqrj47whGR8/getUpdates (Caused by NewConnectionError('<telegram.vendor.ptb_urllib3.urllib3.connection.VerifiedHTTPSConnection object at 0x00000000059BE160>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed',))
+telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None)) after connection broken by 'NewConnectionError('<telegram.vendor.ptb_urllib3.urllib3.connection.VerifiedHTTPSConnection object at 0x00000000059BE1D0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed',)': /bot498747935:AAHANRICU65KYR1E-tcXjpMUMqrj47whGR8/getUpdates
+telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None)) after connection broken by 'NewConnectionError('<telegram.vendor.ptb_urllib3.urllib3.connection.VerifiedHTTPSConnection object at 0x00000000059BEC18>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed',)': /bot498747935:AAHANRICU65KYR1E-tcXjpMUMqrj47whGR8/getUpdates
+telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None)) after connection broken by 'NewConnectionError('<telegram.vendor.ptb_urllib3.urllib3.connection.VerifiedHTTPSConnection object at 0x00000000059BE080>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed',)': /bot498747935:AAHANRICU65KYR1E-tcXjpMUMqrj47whGR8/getUpdates
+telegram.ext.updater - ERROR - Error while getting Updates: urllib3 HTTPError HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot498747935:AAHANRICU65KYR1E-tcXjpMUMqrj47whGR8/getUpdates (Caused by NewConnectionError('<telegram.vendor.ptb_urllib3.urllib3.connection.VerifiedHTTPSConnection object at 0x00000000059A6E10>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed',))
+telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None)) after connection broken by 'NewConnectionError('<telegram.vendor.ptb_urllib3.urllib3.connection.VerifiedHTTPSConnection object at 0x00000000059BE390>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed',)': /bot498747935:AAHANRICU65KYR1E-tcXjpMUMqrj47whGR8/getUpdates
+telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None)) after connection broken by 'NewConnectionError('<telegram.vendor.ptb_urllib3.urllib3.connection.VerifiedHTTPSConnection object at 0x000000000756C048>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed',)': /bot498747935:AAHANRICU65KYR1E-tcXjpMUMqrj47whGR8/getUpdates
+telegram.vendor.ptb_urllib3.urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None)) after connection broken by 'NewConnectionError('<telegram.vendor.ptb_urllib3.urllib3.connection.VerifiedHTTPSConnection object at 0x000000000756C390>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed',)': /bot498747935:AAHANRICU65KYR1E-tcXjpMUMqrj47whGR8/getUpdates
+telegram.ext.updater - ERROR - Error while getting Updates: urllib3 HTTPError HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot498747935:AAHANRICU65KYR1E-tcXjpMUMqrj47whGR8/getUpdates (Caused by NewConnectionError('<telegram.vendor.ptb_urllib3.urllib3.connection.VerifiedHTTPSConnection object at 0x000000000756CA20>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed',))
+telegram.ext.updater - WARNING - Exiting immediately!
+telegram.ext.updater - WARNING - Exiting immediately!
+telegram.ext.dispatcher - ERROR - An uncaught error was raised while processing the update
+Traceback (most recent call last):
+  File "C:\Python34\lib\site-packages\telegram\ext\dispatcher.py", line 279, in process_update
+    handler.handle_update(update, self)
+  File "C:\Python34\lib\site-packages\telegram\ext\commandhandler.py", line 171, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "bot_trial.py", line 37, in planet_location
+    solar_system_planet = {"Mercury": ephem.Mercury, "Venus": ephem.Venus, "Earth": ephem.Earth, "Mars": ephem.Mars, "Jupiter": ephem.Jupiter, "Saturn": ephem.Saturn, "Uranus": ephem.Uranus, "Neptune": ephem.Neptune, "Pluto": ephem.Pluto}
+AttributeError: 'module' object has no attribute 'Earth'
+telegram.ext.updater - WARNING - Exiting immediately!
+telegram.ext.dispatcher - ERROR - An uncaught error was raised while processing the update
+Traceback (most recent call last):
+  File "C:\Python34\lib\site-packages\telegram\ext\dispatcher.py", line 279, in process_update
+    handler.handle_update(update, self)
+  File "C:\Python34\lib\site-packages\telegram\ext\commandhandler.py", line 171, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "bot_trial.py", line 37, in planet_location
+    solar_system_planet = {"Mercury": ephem.Mercury, "Venus": ephem.Venus, "Earth": ephem.Earth, "Mars": ephem.Mars, "Jupiter": ephem.Jupiter, "Saturn": ephem.Saturn, "Uranus": ephem.Uranus, "Neptune": ephem.Neptune, "Pluto": ephem.Pluto}
+AttributeError: 'module' object has no attribute 'Earth'
+telegram.ext.updater - ERROR - Error while getting Updates: Timed out
+telegram.ext.dispatcher - ERROR - An uncaught error was raised while processing the update
+Traceback (most recent call last):
+  File "C:\Python34\lib\site-packages\telegram\ext\dispatcher.py", line 279, in process_update
+    handler.handle_update(update, self)
+  File "C:\Python34\lib\site-packages\telegram\ext\commandhandler.py", line 171, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "bot_trial.py", line 37, in planet_location
+    solar_system_planet = {"Mercury": ephem.Mercury, "Venus": ephem.Venus, "Earth": ephem.Earth, "Mars": ephem.Mars, "Jupiter": ephem.Jupiter, "Saturn": ephem.Saturn, "Uranus": ephem.Uranus, "Neptune": ephem.Neptune, "Pluto": ephem.Pluto}
+AttributeError: 'module' object has no attribute 'Earth'
+telegram.ext.updater - WARNING - Exiting immediately!
+telegram.ext.updater - ERROR - Error while getting Updates: Timed out
+telegram.ext.updater - WARNING - Exiting immediately!
+telegram.ext.dispatcher - ERROR - An uncaught error was raised while processing the update
+Traceback (most recent call last):
+  File "C:\Python34\lib\site-packages\telegram\ext\dispatcher.py", line 279, in process_update
+    handler.handle_update(update, self)
+  File "C:\Python34\lib\site-packages\telegram\ext\commandhandler.py", line 171, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "bot_trial.py", line 37, in planet_location
+    solar_system_planet = {"Mercury": ephem.Mercury, "Venus": ephem.Venus, "Earth": ephem.Earth, "Mars": ephem.Mars, "Jupiter": ephem.Jupiter, "Saturn": ephem.Saturn, "Uranus": ephem.Uranus, "Neptune": ephem.Neptune, "Pluto": ephem.Pluto}
+AttributeError: 'module' object has no attribute 'Earth'
+telegram.ext.dispatcher - ERROR - An uncaught error was raised while processing the update
+Traceback (most recent call last):
+  File "C:\Python34\lib\site-packages\telegram\ext\dispatcher.py", line 279, in process_update
+    handler.handle_update(update, self)
+  File "C:\Python34\lib\site-packages\telegram\ext\commandhandler.py", line 171, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "bot_trial.py", line 37, in planet_location
+    solar_system_planet = {"Mercury": ephem.Mercury, "Venus": ephem.Venus, "Earth": ephem.Earth, "Mars": ephem.Mars, "Jupiter": ephem.Jupiter, "Saturn": ephem.Saturn, "Uranus": ephem.Uranus, "Neptune": ephem.Neptune, "Pluto": ephem.Pluto}
+AttributeError: 'module' object has no attribute 'Earth'
+telegram.ext.dispatcher - ERROR - An uncaught error was raised while processing the update
+Traceback (most recent call last):
+  File "C:\Python34\lib\site-packages\telegram\ext\dispatcher.py", line 279, in process_update
+    handler.handle_update(update, self)
+  File "C:\Python34\lib\site-packages\telegram\ext\commandhandler.py", line 171, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "bot_trial.py", line 19, in planet_location
+    solar_system_planet = {"Mercury": ephem.Mercury, "Venus": ephem.Venus, "Earth": ephem.Earth, "Mars": ephem.Mars, "Jupiter": ephem.Jupiter, "Saturn": ephem.Saturn, "Uranus": ephem.Uranus, "Neptune": ephem.Neptune, "Pluto": ephem.Pluto}
+AttributeError: 'module' object has no attribute 'Earth'
